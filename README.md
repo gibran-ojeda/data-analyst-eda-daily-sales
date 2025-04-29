@@ -1,5 +1,7 @@
 # 📊 Exploratory Data Analysis (EDA) - Daily Sales Report
 
+[📄 View Full Sales Report (PDF)](./output/demo/salesEDAReport.pdf)
+
 This project performs an Exploratory Data Analysis (EDA) on daily sales across multiple branches. It generates clean insights and visualizations to support business decision-making, exporting the entire report as a high-quality PDF.
 
 ---

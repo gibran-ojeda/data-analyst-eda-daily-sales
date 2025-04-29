@@ -1,4 +1,3 @@
-
-data/
-
-output/
+data/sales
+output/bi
+src/__pycache__/
